@@ -1,0 +1,8 @@
+C:\Users\909090\Documents\Magical-Cube\Code\в\bin\Debug\в.exe.config
+C:\Users\909090\Documents\Magical-Cube\Code\в\bin\Debug\в.exe
+C:\Users\909090\Documents\Magical-Cube\Code\в\bin\Debug\в.pdb
+C:\Users\909090\Documents\Magical-Cube\Code\в\obj\Debug\в.csproj.AssemblyReference.cache
+C:\Users\909090\Documents\Magical-Cube\Code\в\obj\Debug\в.csproj.SuggestedBindingRedirects.cache
+C:\Users\909090\Documents\Magical-Cube\Code\в\obj\Debug\в.csproj.CoreCompileInputs.cache
+C:\Users\909090\Documents\Magical-Cube\Code\в\obj\Debug\в.exe
+C:\Users\909090\Documents\Magical-Cube\Code\в\obj\Debug\в.pdb
