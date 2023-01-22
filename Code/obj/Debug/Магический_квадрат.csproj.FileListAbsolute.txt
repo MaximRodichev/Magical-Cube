@@ -1,8 +1,0 @@
-C:\Users\909090\Desktop\Новая папка\Магический_квадрат\obj\Debug\Магический_квадрат.csproj.AssemblyReference.cache
-C:\Users\909090\Desktop\Новая папка\Магический_квадрат\obj\Debug\Магический_квадрат.csproj.SuggestedBindingRedirects.cache
-C:\Users\909090\Desktop\Новая папка\Магический_квадрат\obj\Debug\Магический_квадрат.csproj.CoreCompileInputs.cache
-C:\Users\909090\Desktop\Новая папка\Магический_квадрат\bin\Debug\Магический_квадрат.exe.config
-C:\Users\909090\Desktop\Новая папка\Магический_квадрат\bin\Debug\Магический_квадрат.exe
-C:\Users\909090\Desktop\Новая папка\Магический_квадрат\bin\Debug\Магический_квадрат.pdb
-C:\Users\909090\Desktop\Новая папка\Магический_квадрат\obj\Debug\Магический_квадрат.exe
-C:\Users\909090\Desktop\Новая папка\Магический_квадрат\obj\Debug\Магический_квадрат.pdb

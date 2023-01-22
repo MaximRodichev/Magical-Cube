@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные с этой сборкой.
-[assembly: AssemblyTitle("Магический_квадрат")]
+[assembly: AssemblyTitle("Code")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Магический_квадрат")]
-[assembly: AssemblyCopyright("Copyright ©  2022")]
+[assembly: AssemblyProduct("Code")]
+[assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
-[assembly: Guid("0c21366a-28b6-48ab-b7c3-7cab2cc3a090")]
+[assembly: Guid("40915132-121e-4357-bd58-ff6791b1461b")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

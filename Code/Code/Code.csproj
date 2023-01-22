@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0C21366A-28B6-48AB-B7C3-7CAB2CC3A090}</ProjectGuid>
+    <ProjectGuid>{40915132-121E-4357-BD58-FF6791B1461B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Магический_квадрат</RootNamespace>
-    <AssemblyName>Магический_квадрат</AssemblyName>
+    <RootNamespace>Code</RootNamespace>
+    <AssemblyName>Code</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
